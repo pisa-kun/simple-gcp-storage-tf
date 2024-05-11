@@ -1,10 +1,6 @@
 # terraformでgoogle storageを作るまで
 
-This is a blank project for CDK development with C#.
-
-The `cdk.json` file tells the CDK Toolkit how to execute your app.
-
-It uses the [.NET CLI](https://docs.microsoft.com/dotnet/articles/core/) to compile and execute your project.
+ローカルでterraformを使ってgoogle storageを作成するまで
 
 ## command
 
