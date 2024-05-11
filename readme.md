@@ -24,7 +24,7 @@ resource "google_storage_bucket" "static" {
 ```
 **project-id**は対象のプロジェクト情報に差し替えすること
 
-> terraform init
+> terraform init  
 > terraform apply
 
 ## 参考
