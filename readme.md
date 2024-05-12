@@ -37,3 +37,6 @@ https://zenn.dev/ikedam/articles/b66583e17c7615
 
 - google_storage_bucket
 https://registry.terraform.io/providers/hashicorp/google/latest/docs/resources/storage_bucket
+
+- terraformのgcpことはじめ(公式)
+https://developer.hashicorp.com/terraform/tutorials/gcp-get-started/google-cloud-platform-build
